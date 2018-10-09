@@ -12,8 +12,12 @@ a {
 
 .main {
     height: 100%;
+    background-image: 
 }
 .social-image{
     width: 30px;
     margin: 15px;
+}
+html {
+    background-color: pink;
 }
